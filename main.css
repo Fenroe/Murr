@@ -1,1 +1,15 @@
 @import url("./reset.css");
+
+.header {
+    background-color: yellow;
+}
+
+.header-text {
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.header-subtitle {
+    font-size: 3rem;
+    letter-spacing: .1rem;
+}
